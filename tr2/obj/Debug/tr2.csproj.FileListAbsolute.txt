@@ -1,0 +1,18 @@
+c:\users\fraz shabbir\documents\visual studio 2015\Projects\tr2\tr2\bin\Debug\tr2.exe.config
+c:\users\fraz shabbir\documents\visual studio 2015\Projects\tr2\tr2\bin\Debug\tr2.exe
+c:\users\fraz shabbir\documents\visual studio 2015\Projects\tr2\tr2\bin\Debug\tr2.pdb
+c:\users\fraz shabbir\documents\visual studio 2015\Projects\tr2\tr2\obj\Debug\tr2.exe
+c:\users\fraz shabbir\documents\visual studio 2015\Projects\tr2\tr2\obj\Debug\tr2.pdb
+C:\Users\FRAZ SHABBIR\documents\visual studio 2015\Projects\tr2\tr2\obj\Debug\tr2.csprojResolveAssemblyReference.cache
+C:\Users\fraz_\Documents\Visual Studio 2015\Projects\tr2\tr2\bin\Debug\tr2.exe.config
+C:\Users\fraz_\Documents\Visual Studio 2015\Projects\tr2\tr2\obj\Debug\tr2.exe
+C:\Users\fraz_\Documents\Visual Studio 2015\Projects\tr2\tr2\obj\Debug\tr2.pdb
+C:\Users\fraz_\Documents\Visual Studio 2015\Projects\tr2\tr2\bin\Debug\tr2.exe
+C:\Users\fraz_\Documents\Visual Studio 2015\Projects\tr2\tr2\bin\Debug\tr2.pdb
+C:\Users\fraz_\Documents\Visual Studio 2015\Projects\tr2\tr2\obj\Debug\tr2.csprojResolveAssemblyReference.cache
+C:\Users\Fraz Shabbir\OneDrive\Documents\Visual Studio 2015\Projects\tr2\tr2\bin\Debug\tr2.exe.config
+C:\Users\Fraz Shabbir\OneDrive\Documents\Visual Studio 2015\Projects\tr2\tr2\bin\Debug\tr2.exe
+C:\Users\Fraz Shabbir\OneDrive\Documents\Visual Studio 2015\Projects\tr2\tr2\bin\Debug\tr2.pdb
+C:\Users\Fraz Shabbir\OneDrive\Documents\Visual Studio 2015\Projects\tr2\tr2\obj\Debug\tr2.csprojResolveAssemblyReference.cache
+C:\Users\Fraz Shabbir\OneDrive\Documents\Visual Studio 2015\Projects\tr2\tr2\obj\Debug\tr2.exe
+C:\Users\Fraz Shabbir\OneDrive\Documents\Visual Studio 2015\Projects\tr2\tr2\obj\Debug\tr2.pdb
